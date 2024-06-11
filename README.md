@@ -26,6 +26,4 @@ xxx
 ```
 
 
-<div style="color:blue;">
-  Waiting for updates🐛🐛🐛
-</div>
+*Waiting for updates*🐛🐛🐛
