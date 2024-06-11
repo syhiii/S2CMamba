@@ -24,3 +24,8 @@ xxx
 # test
 xxx
 ```
+
+
+<div style="color:blue;">
+  Waiting for updates
+</div>
