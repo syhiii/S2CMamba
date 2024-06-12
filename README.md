@@ -15,6 +15,17 @@ DCFN: A Pan-sharpening Network Incorporating Spatial and Spectral Constraints vi
 - **(PanNet)** J. Yang, X. Fu, Y. Hu, Y. Huang, X. Ding and J. Paisley, "PanNet: A Deep Network Architecture for Pan-Sharpening," 2017 IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017.
 - **(MSDNN)** X. He et al., "Multiscale Dual-Domain Guidance Network for Pan-Sharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-13, 2023.
 - **(PanMamba)** He X, Cao K, Yan K, et al. Pan-Mamba: Effective pan-sharpening with State Space Model, arid preprint arXiv:2402.12192, 2024.
+```shell
+# run.py can help you run this sota methods
+  python run.py 
+# -ChDim [WV3:8 GF2:4 QB:4]
+# -save_folder [your save path]
+# -dataset [WV3 QB GF2]
+# -algorithm [pannet panmamba msdnn gppnn dpsn dmld dspnet]
+# -mode [If mode=1, it is the training mode, if mode=3 test mode if mode=4 test the effect of the model on full]
+# Note that you may need to modify some parameters of the model when mode=4 to fit the full dataset with different sizes of datasets
+xxx
+```
 
   
 # Train
