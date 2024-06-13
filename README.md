@@ -10,7 +10,7 @@ You can download GF2 WV3 QB dataset at [THIS](https://github.com/liangjiandeng/P
 
 **References**
 
-- **(DMLD)** K. Zhang et al., "Learning Deep Multiscale Local Dissimilarity Prior for Pansharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023.
+- **(DMLD)** K. Zhang et al., "Learning Deep Multiscale Local Dissimilarity Prior for Pansharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023.[LINK](https://ieeexplore.ieee.org/abstract/document/10210612)
 - **(DPFN)** J. Wang, Z. Shao, X. Huang, T. Lu and R. Zhang, "A Dual-Path Fusion Network for Pan-Sharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5403214, doi: 10.1109/TGRS.2021.3090585.
 - **(Gppnn)** S. Xu, J. Zhang, Z. Zhao, K. Sun, J. Liu and C. Zhang, "Deep Gradient Projection Networks for Pan-sharpening," 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, 2021, pp. 1366-1375, doi: 10.1109/CVPR46437.2021.
 - **(U2Net)** U2Net: A General Framework with Spatial-Spectral-Integrated Double U-Net for Image Fusion, ACM MM 2023.
