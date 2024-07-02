@@ -38,5 +38,7 @@ xxx
 xxx
 ```
 
-![Image Description](images/show_gf2.png)
+![Image Description](images/shows_gf2.png)
+![Image Description](images/shows_wv3.png)
+![Image Description](images/shows_qb.png)
 *Waiting for updates*🐛🐛🐛
