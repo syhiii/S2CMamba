@@ -33,11 +33,12 @@ xxx
 # Train
 ```shell
 # train
-xxx
+CUDA_VISIBLE_DEVICES=2,3 python -m torch.distributed.launch --nproc_per_node=2 --use-env main.py
 # test
-xxx
-```
+CUDA_VISIBLE_DEVICES=2,3 python -m torch.distributed.launch --nproc_per_node=2 --use-env main.py --mode 3
 
+```
+**Visualization (from top to bottom: GF2, WV3, QB)**
 ![Image Description](images/shows_gf2.png)
 ![Image Description](images/shows_wv3.png)
 ![Image Description](images/shows_qb.png)
