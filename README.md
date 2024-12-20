@@ -1,9 +1,9 @@
-# SSCNet
-SSCNet: A Pan-sharpening Network Incorporating Spatial and Spectral Constraints via Mamba Module
+# S2CMamba
+S2CMamba: A Mamba-based Pan-sharpening ModelIncorporating Spatial and Spectral Consistency
 # Dataset
 You can download GF2 WV3 QB dataset at [THIS](https://github.com/liangjiandeng/PanCollection)
-# SSCNet block
-✨You can call our proposed modules: CIM, SCM, CMIM directly in **/dcfn_block/block/**.
+# S2CMamba block
+✨You can call our proposed modules: WSLM, GSIM, SCM directly in **/dcfn_block/block/**.
 # sota
 
 ✨We keep some sota models in **/sota**, including Gppnn,Msdnn, PanMamba, etc.
