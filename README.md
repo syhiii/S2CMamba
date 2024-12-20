@@ -1,9 +1,8 @@
 # S2CMamba
 S2CMamba: A Mamba-based Pan-sharpening ModelIncorporating Spatial and Spectral Consistency
+✨ **Note that the code will be open after the paper is published**
 # Dataset
 You can download GF2 WV3 QB dataset at [THIS](https://github.com/liangjiandeng/PanCollection)
-
-✨ **Note that the code will be open after the paper is published**
 
 # S2CMamba block
 ✨You can call our proposed modules: WSLM, GSIM, SCM directly in **/dcfn_block/block/**.
